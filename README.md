@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batarse1&label=Profile%20views&color=0e75b6&style=flat" alt="batarse1" /> </p>
 
 - 👨‍💻 My personal website is [https://www.fdgbatarse.dev/](https://www.fdgbatarse.dev/)
-- 💻 Check out my other [Github account](https://gitlab.com/fdgbatarse)
+- 💻 Check out my other [Github account](https://github.com/fdgbatarse1)
 - 💻 Check out my [Gitlab account](https://gitlab.com/fdgbatarse)
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React and Next.js**
 - 📫 How to reach me **fdgbatarse@gmail.com**
